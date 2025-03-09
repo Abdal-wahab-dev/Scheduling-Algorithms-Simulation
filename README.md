@@ -1,13 +1,11 @@
 # Scheduling-Algorithms-Simulation
-/Scheduling-Algorithms-Simulation
+Scheduling-Algorithms-Simulation
     /src
-        /algorithms
+        /algorithms/
             FCFS.java
             SJF.java
             PriorityScheduling.java
             RoundRobin.java
-      
-        /ui
+        ui/
             MainGUI.java
-    
     README.md
